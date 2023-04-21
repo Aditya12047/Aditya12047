@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Aditya Shukla</h1>
-- 🌱 I’m currently learning **Backend Web Development**
+<h1 align="center">Hi, I'm Aditya Shukla</h1>
+- 🌱 I’m currently learning Backend Web Development
 
-- 📫 How to reach me **adityasshukla02@gmail.com**
+- 📫 How to reach me adityasshukla02@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
