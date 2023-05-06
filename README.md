@@ -1,11 +1,14 @@
-<h1 align="center">Hi, I'm Aditya Shukla</h1>
-- 🌱 I’m currently learning Backend Web Development
+<h1 align="center">Hi,I'm Aditya Shukla</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12047&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12047" /> </p>
 
-- 📫 How to reach me adityasshukla02@gmail.com
+- I’m currently learning **Backend Web Development**
+
+- How to reach me **adityasshukla02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/as7053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="as7053" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user3929uf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user3929uf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
