@@ -1,5 +1,5 @@
 <h1 align="center">Hi,I'm Aditya Shukla</h1>
-- I’m currently learning **Backend Web Development**
+- I’m currently learning Backend Web Development
 
 - How to reach me **adityasshukla02@gmail.com**
 
